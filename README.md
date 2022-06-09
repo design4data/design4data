@@ -17,7 +17,7 @@ certains s’ouvrent parfois sur de tout autres horizons.
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,r,tensorflow,jupyter" />
+    <img src="https://skillicons.dev/icons?i=py,r,tensorflow,vscode,jupyter notebook" />
   </a>
 </p>
 
