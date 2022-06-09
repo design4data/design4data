@@ -1,4 +1,4 @@
-# Bienvenue dans mon labo Machine et Deep learning pour les Territoires !  
+# Bienvenue dans mon labo Machine et Deep learning !  
 On y explore les nouveaux usages du **Data Mining** & du **Machine Learning** qui aujourd’hui s’offrent aux acteurs d’un Territoire … 📈📉👀  
 &nbsp;  
 On y discute de stratégies de modélisation mathématique pour traduire une problématique territoriale concrète … 🔀 🔁  
@@ -17,7 +17,7 @@ certains s’ouvrent parfois sur de tout autres horizons.
 J’ai néanmoins souhaité que tous partent de la vie quotidienne et vous présentent des jeux de données *Real-World*.  
 &nbsp;  
 **Avertissement** : 
-ces carnets sont de simples ébauches et non des solutions end-to-end applicables telles quelles. 
+ces carnets sont de simples ébauches et non des projets end-to-end applicables tels quels. 
 Mais s’ils vous donnent l’envie d'en savoir davantage sur mes travaux alors leur objectif sera pleinement atteint !
 
 <!---
