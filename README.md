@@ -17,7 +17,7 @@ certains s’ouvrent parfois sur de tout autres horizons.
 J’ai néanmoins souhaité que tous partent de la vie quotidienne et vous présentent des jeux de données *Real-World*.  
 &nbsp;  
 **Avertissement** : 
-ces carnets ne sont que de simples ébauches et ne sont donc pas des solutions utilisables en l’état. 
+ces carnets sont de simples ébauches et non des solutions end-to-end applicables telles quelles. 
 Mais s’ils vous donnent l’envie d'en savoir davantage sur mes travaux alors leur objectif sera pleinement atteint !
 
 <!---
