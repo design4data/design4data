@@ -15,12 +15,6 @@ Si nombre de carnets abordent deux aspects essentiels à mes yeux :
 
 certains s’ouvrent parfois sur de tout autres horizons.
 
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,r,tensorflow,vscode,jupyter notebook" />
-  </a>
-</p>
-
 J’ai néanmoins souhaité que tous partent de la vie quotidienne et vous présentent des jeux de données *Real-World*.  
 &nbsp;  
 **Avertissement** : 
