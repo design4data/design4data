@@ -1,5 +1,5 @@
 # Welcome to my Machine & Deep learning Lab !  
-On y explore les nouveaux usages du **Data Mining** & du **Machine Learning** qui aujourd’hui s’offrent aux acteurs d’un Territoire … 📈📉👀  
+On y explore les nouvelles potentialités du **Data Mining** & du **Machine Learning** qui aujourd’hui s’offrent aux acteurs d’un Territoire … 📈📉👀  
 &nbsp;  
 On y discute de stratégies de modélisation mathématique pour traduire une problématique territoriale concrète … 🔀 🔁  
 &nbsp;  
