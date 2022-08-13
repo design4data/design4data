@@ -3,7 +3,7 @@ On y explore les nouveaux usages du **Data Mining** & du **Machine Learning** qu
 &nbsp;  
 On y discute de stratégies de modélisation mathématique pour traduire une problématique territoriale concrète … 🔀 🔁  
 &nbsp;  
-On s’y interroge sur la construction de la **Data** comme aide impartiale à la décision publique …⚖️⚙️  
+On s’y interroge sur la construction de la **Data** comme aide à la décision publique …⚖️⚙️  
 &nbsp;  
 On y examine de nombreux bouts de code et quelques représentations graphiques …🔍🔍🔍  
 &nbsp;  
