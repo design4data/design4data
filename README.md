@@ -18,8 +18,10 @@ certains s’ouvrent aussi à de tout autres horizons.
 
 J’ai néanmoins souhaité que tous partent de la vie quotidienne et vous présentent des jeux de données *Real-World*.  
 &nbsp;
+
 **Bonne lecture !**
 &nbsp;
+
 **Avertissement** : 
 ces carnets sont de simples ébauches. Il ne s'agit en aucune manière de projets end-to-end destinés à être recopiés en l'état.
 
