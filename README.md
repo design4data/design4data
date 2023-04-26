@@ -18,8 +18,7 @@ certains s’ouvrent aussi à de tout autres horizons.
 
 J’ai néanmoins souhaité que tous partent de la vie quotidienne et vous présentent des jeux de données *Real-World*.  
 &nbsp;
-
-**Bonne lecture !**
+**Have a nice stroll!**
 &nbsp;
 
 **Avertissement** : 
