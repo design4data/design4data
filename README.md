@@ -20,8 +20,8 @@ J’ai néanmoins souhaité que tous partent de la vie quotidienne et vous prés
 &nbsp;
 
 ## Have a nice stroll!
-&nbsp;
 
+&nbsp;
 **Avertissement** : 
 ces carnets sont de simples ébauches. Il ne s'agit en aucune manière de projets end-to-end destinés à être recopiés en l'état.
 
