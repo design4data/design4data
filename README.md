@@ -1,29 +1,23 @@
-# Welcome to my Machine & Deep learning Lab !  
-J'y explore les nouvelles potentialités du **Data Mining** & du **Machine Learning** qui aujourd’hui s’offrent aux acteurs d’un Territoire … 📈📉👀  
+# Welcome to my personal Labs !  
+Les techniques d'**intelligence artificielle** aujourd’hui à disposition des acteurs territoriaux sont particulièrement prometteuses … 🚨🚨🚨  
 &nbsp;  
-J'y teste des stratégies de modélisation mathématique pour traduire une problématique territoriale concrète … 🔀 🔁  
+Mais quelle(s) construction(s) de la **Data** faut-il mettre en œuvre pour en faire une aide réelle à la décision publique ? ✂️⚙️🔨  
 &nbsp;  
-Je m’y interroge sur la construction de la **Data** comme aide à la décision publique …⚖️⚙️  
+Les projets ici présentés se veulent de simples points de vue potentiellement exploitables … 📈📊📉  
 &nbsp;  
-J'y propose quelques représentations graphiques et bouts de code commentés …🔍🔍🔍  
-&nbsp;  
-Si nombre de mes carnets abordent les thèmes suivants, essentiels à mes yeux :  
+Actuellement, les principaux thèmes au cœur de mes recherches sont :  
 &nbsp;    
-- :pill: 🦆 la santé selon la perspective *One Health*
-- 🌱 :cherry_blossom: les questions environnementales
-- ⚖️ l'explicabilité des modèles prédictifs
-&nbsp;  
+- :pill:🐰 la santé envisagée sous l'angle *One Health*,
+- 🌱🌍 les *Green Data* et les questions santé-environnement,
+- 🔍⚖️ l'explicabilité et l'évaluation des modèles prédictifs.
 
-certains s’ouvrent aussi à de tout autres horizons.
+&nbsp;
 
-J’ai néanmoins souhaité que tous partent de la vie quotidienne et vous présentent des jeux de données *Real-World*.  
+Notez-bien que cette liste n'est bien évidemment pas exhaustive !
+
 &nbsp;
 
 ## Have a nice stroll!
-
-&nbsp;
-**Avertissement** : 
-ces carnets sont de simples ébauches. Il ne s'agit en aucune manière de projets end-to-end destinés à être recopiés en l'état.
 
 <!---
 design4data/design4data is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
