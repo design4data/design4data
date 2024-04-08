@@ -13,7 +13,7 @@ Actuellement, les principaux thèmes au cœur de mes recherches sont :
 
 &nbsp;
 
-Notez-bien que cette liste n'est bien évidemment pas exhaustive !
+Notez-bien que cette liste n'est, de toute évidence, pas exhaustive !
 
 &nbsp;
 
